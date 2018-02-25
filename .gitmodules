@@ -1,9 +1,9 @@
 [submodule "phaser"]
-	   path = phaser
-	   url = https://github.com/photonstorm/phaser
+    path = phaser
+    url = https://github.com/photonstorm/phaser
 [submodule "phaser-examples"]
-	   path = phaser-examples
-	   url = https://github.com/photonstorm/phaser-examples
+    path = phaser-examples
+    url = https://github.com/photonstorm/phaser-examples
 [submodule "phaser3-examples"]
-       path = phaser3-examples
-       url = https://github.com/photonstorm/phaser3-examples
+	path = phaser3-examples
+	url = https://github.com/photonstorm/phaser3-examples
