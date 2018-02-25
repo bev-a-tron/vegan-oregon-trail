@@ -1,3 +1,6 @@
 Beverly makes a game to help kids love animals!
 
-(c) 2016 Beverly
+HOW TO RUN THIS
+
+(1) `python -m SimpleHTTPServer`
+(2) localhost:8000
